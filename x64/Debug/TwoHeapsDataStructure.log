@@ -1,0 +1,12 @@
+﻿  heap.c
+C:\Users\eladg\source\repos\TwoHeapsDataStructure\TwoHeapsDataStructure\heap.h(66,37): warning C4028: formal parameter 2 different from declaration
+C:\Users\eladg\source\repos\TwoHeapsDataStructure\TwoHeapsDataStructure\heap.c(107,46): warning C4028: formal parameter 3 different from declaration
+C:\Users\eladg\source\repos\TwoHeapsDataStructure\TwoHeapsDataStructure\heap.c(117,46): warning C4028: formal parameter 3 different from declaration
+C:\Users\eladg\source\repos\TwoHeapsDataStructure\TwoHeapsDataStructure\heap.c(123,8): warning C4101: 'arr1': unreferenced local variable
+C:\Users\eladg\source\repos\TwoHeapsDataStructure\TwoHeapsDataStructure\heap.c(123,20): warning C4101: 'arr2': unreferenced local variable
+  main.c
+C:\Users\eladg\source\repos\TwoHeapsDataStructure\TwoHeapsDataStructure\heap.h(66,37): warning C4028: formal parameter 2 different from declaration
+C:\Users\eladg\source\repos\TwoHeapsDataStructure\TwoHeapsDataStructure\main.c(32,19): warning C4047: 'function': 'float *' differs in levels of indirection from 'float (*)[50]'
+C:\Users\eladg\source\repos\TwoHeapsDataStructure\TwoHeapsDataStructure\main.c(32,14): warning C4024: 'Init': different types for formal and actual parameter 1
+  Generating Code...
+  TwoHeapsDataStructure.vcxproj -> C:\Users\eladg\source\repos\TwoHeapsDataStructure\x64\Debug\TwoHeapsDataStructure.exe
